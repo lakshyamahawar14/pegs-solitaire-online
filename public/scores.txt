@@ -1,18 +1,1 @@
 1: Username: lakshya, Score: 8000
-2: Username: test4, Score: 7000
-3: Username: 0, Score: 4068
-4: Username: test5, Score: 4000
-5: Username: test3, Score: 4000
-6: Username: harry, Score: 4000
-7: Username: test1, Score: 3000
-8: Username: test2, Score: 3000
-9: Username: deadpool, Score: 1700
-10: Username: Ajay, Score: 300
-11: Username: admin, Score: 200
-12: Username: Felix, Score: 200
-13: Username: zakir naik, Score: 200
-14: Username: zamn, Score: 100
-15: Username: batman, Score: null
-16: Username: spiderman, Score: null
-17: Username: iron man, Score: null
-18: Username: super man, Score: null
